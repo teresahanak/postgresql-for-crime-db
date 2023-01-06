@@ -1,2 +1,3 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=teresahanak) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/teresahanak/postgresql-for-crime-db) ![GitHub contributors](https://img.shields.io/github/contributors/teresahanak/postgresql-for-crime-db) ![GitHub language count](https://img.shields.io/github/languages/count/teresahanak/postgresql-for-crime-db) ![GitHub top language](https://img.shields.io/github/languages/top/teresahanak/postgresql-for-crime-db) ![GitHub last commit](https://img.shields.io/github/last-commit/teresahanak/postgresql-for-crime-db) 
 # postgresql-for-crime-db
 An example project for relational database creation and management in Postgresql, with Python with psycopg2 module in Jupyter NB
